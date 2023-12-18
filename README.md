@@ -24,7 +24,7 @@ Whether you're a coding Jedi or a padawan taking your first steps, there's a pla
 
 1. **Explore Our Projects**: Check out our [GitHub repositories](https://github.com/NovaRyzex) and find a project that aligns with your interests and skills.
 
-2. **Join the Discussion**: Engage with fellow members on our [Discord channel](https://discord.com/NovaRyzex) (coming soon). Ask questions, share insights, and be part of the conversation.
+2. **Join the Discussion**: Engage with fellow members on our [Discord channel](https://discord.com/invite/2vHTABwq) (coming soon). Ask questions, share insights, and be part of the conversation.
 
 3. **Contribute**: Fork a project, squash some bugs, or add a new feature. Every contribution, big or small, makes a difference.
 
